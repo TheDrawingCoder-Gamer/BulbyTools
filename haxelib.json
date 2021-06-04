@@ -1,0 +1,14 @@
+{
+  "name": "BulbyTools",
+  "url" : "https://github.com/YOUR_NAME/BulbyTools/",
+  "license": "MIT",
+  "tags": ["haxe","js"],
+  "description": "description of BulbyTools",
+  "classPath": "src",
+  "version": "0.0.1",
+  "releasenote": "Initial release",
+  "contributors": ["YOUR_NAME"],
+  "dependencies": {
+
+  }
+}
